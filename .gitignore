@@ -20,3 +20,5 @@ Greedy.sln.DotSettings.user
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
+
+.DS_Store
