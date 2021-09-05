@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPixel.Vending.Core", "RedPixel.Vending.Core\RedPixel.Vending.Core.csproj", "{3EBB8B33-F18A-4700-A9EF-CBEFCF041ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPixel.Vending.Core.Specs", "RedPixel.Vending.Core.Specs\RedPixel.Vending.Core.Specs.csproj", "{1EEB0954-E88A-4ED4-A479-FEDD2C0D2ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedPixel.Vending.Console", "RedPixel.Vending.Console\RedPixel.Vending.Console.csproj", "{895654BF-752A-432B-A452-F269123899A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EBB8B33-F18A-4700-A9EF-CBEFCF041ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBB8B33-F18A-4700-A9EF-CBEFCF041ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBB8B33-F18A-4700-A9EF-CBEFCF041ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBB8B33-F18A-4700-A9EF-CBEFCF041ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEB0954-E88A-4ED4-A479-FEDD2C0D2ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEB0954-E88A-4ED4-A479-FEDD2C0D2ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEB0954-E88A-4ED4-A479-FEDD2C0D2ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEB0954-E88A-4ED4-A479-FEDD2C0D2ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895654BF-752A-432B-A452-F269123899A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895654BF-752A-432B-A452-F269123899A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895654BF-752A-432B-A452-F269123899A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895654BF-752A-432B-A452-F269123899A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
